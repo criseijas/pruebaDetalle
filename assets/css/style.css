@@ -1,0 +1,17 @@
+.producto{
+    padding: 5rem;
+}
+
+.container{
+    margin-top: 2rem;
+}
+
+.ver_prod{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: blue;
+}
+
+.btn{
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+{
+    "producto": [
+      {
+        "nombre": "Consola1",
+        "imagen": "../assets/img/consola1.png",
+        "precio": "10200",
+        "descripcion": "Consola nro1",
+        "id": 1
+      },
+      {
+        "nombre": "Consola2",
+        "imagen": "../assets/img/consola2.png",
+        "precio": "12500",
+        "descripcion": "Consola nro2",
+        "id": 2
+      },
+      {
+        "nombre": "Yoda BB",
+        "imagen": "../assets/img/yodab.png",
+        "precio": "8200",
+        "descripcion": "Descripcion de Yoda bb",
+        "id": 3
+      }
+    ]
+}
